@@ -9,5 +9,7 @@ requests
 python-dotenv
 fpdf
 matplotlib
+python-dotenv
+requests
 gunicorn
 flask-cors
