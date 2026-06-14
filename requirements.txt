@@ -1,0 +1,13 @@
+transformers
+torch
+scikit-learn
+pandas
+numpy
+flask
+huggingface_hub
+requests
+python-dotenv
+fpdf
+matplotlib
+gunicorn
+flask-cors
